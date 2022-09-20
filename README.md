@@ -1,5 +1,12 @@
 # maximum-sum-array
 
+```
+ROLL NO: 09
+NAME: OSHIKA ROY
+COURSE: DESIGN ALGORITHM & ANALYSIS
+SEMESTER: V
+```
+
 PROBLEM STATEMENT:
 
 Implement the solution for Maximum Sum Array by populating the array of size 14 with non-zero [positive/negative] random numbers.
